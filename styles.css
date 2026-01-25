@@ -132,7 +132,7 @@ body {
 .segmented button {
       border: none;
       background: transparent;
-      padding: 5px 39px;
+      padding: 5px 42px;
       border-radius: 999px;
       font-size: 14px;
       font-weight: 600;
@@ -400,4 +400,5 @@ h3 {
   gap: 6px;
   line-height: 1;
 }
+
 
