@@ -334,6 +334,22 @@ h3 {
   margin-right: 4px;       /* spacing between logo and text */
 }
 
+.a-logo {
+  width: 35px;             /* match text height */
+  height: 15px;            
+  object-fit: contain;     
+  display: inline-block;    
+  vertical-align: middle;  /* aligns image with text baseline */
+  margin-right: 4px;       /* spacing between logo and text */
+}
+
+.ass-icon {
+  width: 111px;                   /* roughly text-xs size */
+  height: 24px;
+  object-fit: contain;           /* maintain image proportions */
+  display: block;
+}
+
 .barcode-logo {
     width: 400px;
     margin-top: 10px;
@@ -400,5 +416,6 @@ h3 {
   gap: 6px;
   line-height: 1;
 }
+
 
 
