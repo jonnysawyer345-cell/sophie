@@ -153,8 +153,8 @@ body {
 }
 
 .details h2 {
-  margin-bottom: 16px;
-  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-top: 50px;
 }
 
 .row{
@@ -416,6 +416,7 @@ h3 {
   gap: 6px;
   line-height: 1;
 }
+
 
 
 
